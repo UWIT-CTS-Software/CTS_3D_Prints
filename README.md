@@ -10,3 +10,6 @@ There are two sizes and two versions of both included here. There is a model for
 
 ### Display/Q-SYS Touch Panel Mount
 A mount for the Q-SYS touch panel that snaps on to the back of one of the displays we have (NEC E988). It is recommended that this model is printed with an increased infil, 40% seems to be a good place to make sure the feet for the Q-SYS mount are sturdy enough although switching from PLA to PETG in this case may be wise in this case.
+
+#### Printing Notes
+At C.T.S. we use the makerspace in the I.T. building at the University of Wyoming. Which has PRUSA printers with .4mm nozzles.
